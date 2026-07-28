@@ -163,16 +163,16 @@ This CV is based on demonstrated competencies from the RainyDay Café Operationa
               <h2 className="text-2xl font-bold text-white mb-6">Personal Information</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-foreground/80">
                 <p>
-                  <span className="font-semibold text-cyan-200">Name:</span> [Your Name]
+                  <span className="font-semibold text-cyan-200">Name:</span> [Lucky Ale]
                 </p>
                 <p>
                   <span className="font-semibold text-cyan-200">Email:</span> [your.email@example.com]
                 </p>
                 <p>
-                  <span className="font-semibold text-cyan-200">Phone:</span> [+44 (0) XXXX XXXXXX]
+                  <span className="font-semibold text-cyan-200">Phone:</span> [+44 7459 115064]
                 </p>
                 <p>
-                  <span className="font-semibold text-cyan-200">LinkedIn:</span> [linkedin.com/in/yourprofile]
+                  <span className="font-semibold text-cyan-200">LinkedIn:</span> [linkedin.com/in/lucky-ale-b802b636a?]
                 </p>
               </div>
             </section>
