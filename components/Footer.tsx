@@ -45,7 +45,7 @@ const Footer = () => {
             <h3 className="font-bold text-lg text-white mb-4">Connect</h3>
             <div className="flex gap-4">
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/lucky-ale-b802b636a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg bg-white/10 text-primary hover:bg-primary/20 smooth-transition"
